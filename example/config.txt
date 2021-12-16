@@ -1,0 +1,2 @@
+Prefix plugins/GPUDijkstra/example/
+Plugin GPUDijkstra inputfile parameters.txt outputfile distSource.txt
